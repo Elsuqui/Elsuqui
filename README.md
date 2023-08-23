@@ -13,7 +13,7 @@ There are some activities I like to do on my free times
 
 - Play video games 🎮
 - Do workout 🏋🏻
-- Run 🏃🏻
+- Running 🏃🏻
 
 <!--
 **Elsuqui/Elsuqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
