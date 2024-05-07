@@ -2,7 +2,7 @@
 
 ## Welcome to my profile
 
-<p>My passion is software development, I have 4 years of experience working on a variety of projects, 
+<p>My passion is the software development, I have 4 years of experience working on a variety of projects, 
 working in small and medium-sized companies building complex solutions, 
 and most of the time as a back-end developer with PHP, Laravel, and other related technologies.</p>
 
